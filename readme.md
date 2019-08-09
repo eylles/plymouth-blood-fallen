@@ -1,12 +1,10 @@
-# How To install
+# Install
 
-1. open terminal
-2. enter these commands
 ```
-git clone 
+git clone https://github.com/eylles/plymouth-blood-fallen
 cd plymouth-blood-fallen
-chmod ug+x ./install.sh
-sh /install.sh
+chmod +x ./install.sh
+./install.sh
 ```
 
 # Screenshoot
