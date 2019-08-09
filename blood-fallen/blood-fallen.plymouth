@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Blood-Fallen
+Description=A plymouth theme of best girl
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/blood-fallen
+ScriptFile=/usr/share/plymouth/themes/blood-fallen/blood-fallen.script
